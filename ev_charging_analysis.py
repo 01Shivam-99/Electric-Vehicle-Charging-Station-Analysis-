@@ -2,6 +2,7 @@
 Project 26: Electric Vehicle Charging Station Analysis
 Student: Shivam Mishra | ABES Engineering College, Ghaziabad (B.Tech, ELCE)
 Admission No: 2026B022310161 
+git hub repo: https://github.com/01Shivam-99/Electric-Vehicle-Charging-Station-Analysis-.git
 
 This script performs complete data cleaning, exploratory analysis, statistical
 summaries (NumPy + Pandas), core Python data structures & OOP demonstration,
